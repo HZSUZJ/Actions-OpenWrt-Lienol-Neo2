@@ -1,5 +1,5 @@
 # Actions-OpenWrt-Lienol-Neo2
-Use Github Actions to automatically compile Lienol's OpenWrt source for Neo2 (Using branch dev-19.07)
+Use Github Actions to automatically compile Lienol's Modified OpenWrt source for Neo2 (Using branch dev-19.07)
 
 ## Usages
 
@@ -15,11 +15,7 @@ Telegram Release Channel: [neo2passwall](https://t.me/neo2passwall)
 ## Features
 
 - PassWall
-- DDNS
-- UPnP
-- KMS
-- ZeroTier
-- UnblockNeteaseMusic
+- more in the ```.config``` file
 
 
 ## Acknowledgments
