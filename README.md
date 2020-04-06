@@ -15,7 +15,11 @@ Telegram Release Channel: [neo2passwall](https://t.me/neo2passwall)
 ## Features
 
 - PassWall
-- more in the ```.config``` file
+- DDNS
+- UPnP
+- KMS
+- ZeroTier
+- UnblockNeteaseMusic
 
 
 ## Acknowledgments
